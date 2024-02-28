@@ -74,7 +74,7 @@ const Desktop = () => {
           <Divnavbar />
           <section className="self-stretch flex flex-col items-start justify-start relative gap-[15px_0px] max-w-full text-left text-[18.7px] text-white font-inter">
             <img
-              className="self-stretch relative max-w-full overflow-hidden max-h-full"
+              className="self-stretch relative max-w-full overflow-hidden max-h-full pt-0"
               loading="lazy"
               alt=""
               src="/section.svg"

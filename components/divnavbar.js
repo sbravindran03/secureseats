@@ -1,6 +1,6 @@
 const Divnavbar = () => {
   return (
-    <div className="w-[1534px] bg-black flex flex-row items-end justify-between pt-0 pb-px pr-px pl-1 box-border max-w-full gap-[20px] z-[1] text-left text-smi-9 text-white font-inter mq1050:flex-wrap">
+    <div className="w-[1534px] bg-black flex flex-row items-end justify-between pt-0 pb-px pr-px pl-1 box-border max-w-full gap-[20px] z-[1] text-left text-smi-9 text-white font-inter mq1050:flex-wrap absolute top-0">
       <div className="h-[27.9px] w-[109.5px] relative hidden" />
       <div className="flex flex-col items-start justify-start pt-0 px-0 pb-0.5 shrink-0">
         <div className="flex flex-row items-start justify-start py-0 pr-px pl-0 gap-[0px_32px] mq450:gap-[0px_32px]">
